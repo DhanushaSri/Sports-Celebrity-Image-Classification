@@ -1,2 +1,2 @@
 # Sports-Celebrity-Image-Classification
-Image classification project using data science techniques for sports persons.
+Python project classifies sports celebrities' images using wavelet transform, optimizing models like SVM and Logistic Regression. Features data collection, preprocessing, and website development for user interaction.
